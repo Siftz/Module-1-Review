@@ -1,0 +1,16 @@
+C:\Users\lakin\repos\AreaFinder\bin\Debug\net8.0\AreaFinder.exe
+C:\Users\lakin\repos\AreaFinder\bin\Debug\net8.0\AreaFinder.deps.json
+C:\Users\lakin\repos\AreaFinder\bin\Debug\net8.0\AreaFinder.runtimeconfig.json
+C:\Users\lakin\repos\AreaFinder\bin\Debug\net8.0\AreaFinder.dll
+C:\Users\lakin\repos\AreaFinder\bin\Debug\net8.0\AreaFinder.pdb
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.csproj.AssemblyReference.cache
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.AssemblyInfoInputs.cache
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.AssemblyInfo.cs
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.csproj.CoreCompileInputs.cache
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.sourcelink.json
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.dll
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\refint\AreaFinder.dll
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.pdb
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\AreaFinder.genruntimeconfig.cache
+C:\Users\lakin\repos\AreaFinder\obj\Debug\net8.0\ref\AreaFinder.dll

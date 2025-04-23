@@ -66,7 +66,7 @@ class Program
         double circleArea = CalculateCircleArea(radius);
         if (circleArea > 0)
         {
-            Console.WriteLine("The Area of the circle is: {circleArea:F2}"); // F2 floating value point to 2 decimal places
+            Console.WriteLine($"The Area of the circle is: {circleArea:F2}"); // F2 floating value point to 2 decimal places
         }
         //user input for triangles
         Console.WriteLine("\nEnter the base length of the triangle:");
