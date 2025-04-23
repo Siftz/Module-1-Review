@@ -76,7 +76,7 @@ class Program
         double triangleArea = CalculateTriangleArea(baseLength, height);
         if (triangleArea > 0)
         {
-            Console.WriteLine("Area of the triangle is : {triangleArea:F2}");
+            Console.WriteLine($"Area of the triangle is : {triangleArea:F2}");
         }
         //user input for rectangle
         Console.WriteLine("\nEnter the length of the rectangle:");
@@ -86,7 +86,7 @@ class Program
         double rectangleArea = CalculateRectangleArea(length, width);
         if (rectangleArea > 0)
         {
-            Console.WriteLine("The area of the the rectangle is: {rectangleArea:F2}");
+            Console.WriteLine($"The area of the the rectangle is: {rectangleArea:F2}");
         }
         // user input for squares
         Console.WriteLine("\nEnter the side length of the square:");
@@ -94,7 +94,7 @@ class Program
         double squareArea = CalculateSquareArea(side);
         if (squareArea > 0)
         {
-            Console.WriteLine("The area of the square is: {squareArea:F2}");
+            Console.WriteLine($"The area of the square is: {squareArea:F2}");
         }
     }
 }
